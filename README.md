@@ -1,6 +1,6 @@
 # mv008 firmware
 ****************************************
-**login firmware-final & firmware-finalv2**
+**login firmware-final & unlock**
 
 login web & wifi "pldthome"
 
